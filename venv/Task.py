@@ -3,7 +3,7 @@ import itertools
 
 print("Input path to file:")
 f = input()
-print("Input path to save picture:")
+print("Input path to save image:")
 p = input()
 
 #C:\Users\\VivoBook\Desktop\\KGMlab2\DS5.txt
